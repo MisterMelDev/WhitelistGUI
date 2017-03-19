@@ -1,0 +1,9 @@
+name: WhitelistGUI
+description: A gui to view info about the whitelist.
+version: 1.0
+author: MisterMel
+main: nl.mistermel.whitelistgui.Main
+commands:
+  whitelistgui:
+    description: View the whitelist GUI
+    usage: Usage /whitelistgui
